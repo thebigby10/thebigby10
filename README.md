@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Asif. I'm currently studying in Islamic University of Technology(IUT) in CSE depertment on Software Enginerring Programme.
+It's nice to meet you.😄
 
 <!--
 **thebigby10/thebigby10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
