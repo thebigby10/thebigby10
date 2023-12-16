@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Asif. I'm currently studying in Islamic University of Technology(IUT) in CSE depertment on Software Enginerring Programme.
+My name is Asif. I'm currently studying in Islamic University of Technology(IUT) in Software Engineering.
 It's nice to meet you.😄
 
 <!--
