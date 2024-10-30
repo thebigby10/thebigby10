@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is Asif, Studying Software Engineering. 
+### Hi, I'm Asif. 👋
 
 <!--
 **thebigby10/thebigby10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
