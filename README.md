@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2022,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Abidur%20Rahman&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=32&desc=Asif%20%C2%B7%20Software%20Engineer&descSize=18&descAlignY=52" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Abidur%20Rahman&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=32&desc=Asif%20%C2%B7%20Software%20Engineer&descSize=18&descAlignY=52" alt="header"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Software+Engineer+%40+CPS+Academy;Backend+%C2%B7+DevOps+%C2%B7+AI+Engineering;SWE+%40+IUT+%C2%B7+Class+of+2022;%F0%9F%91%BE+installing+arch" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Software+Engineer+%40+CPS+Academy;Backend+%C2%B7+DevOps+%C2%B7+AI+Engineering;SWE+%40+IUT+%C2%B7+Class+of+2027;%F0%9F%91%BE+installing+arch" alt="typing intro"/>
 
 <br/>
 
@@ -49,18 +49,16 @@ An AI detective game: one line of text generates a suspect, you get twelve quest
 
 <div align="center">
 
-<a href="https://github.com/thebigby10/KUMO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thebigby10&repo=KUMO&hide_border=true&cache_seconds=86400" alt="KUMO"/></a>
-<a href="https://github.com/thebigby10/Nimbus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thebigby10&repo=Nimbus&hide_border=true&cache_seconds=86400" alt="Nimbus"/></a>
-
-<a href="https://github.com/thebigby10/prometheus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thebigby10&repo=prometheus&hide_border=true&cache_seconds=86400" alt="Prometheus"/></a>
-<a href="https://github.com/Muhtasim-Zawad/Project_Baksho"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhtasim-Zawad&repo=Project_Baksho&hide_border=true&cache_seconds=86400" alt="Project Baksho"/></a>
-
-<a href="https://github.com/thebigby10/TasteTrail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thebigby10&repo=TasteTrail&hide_border=true&cache_seconds=86400" alt="TasteTrail"/></a>
-<a href="https://github.com/thebigby10/PicoDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thebigby10&repo=PicoDB&hide_border=true&cache_seconds=86400" alt="PicoDB"/></a>
+| Project | | Live from the repo |
+|---|---|---|
+| **[KUMO](https://github.com/thebigby10/KUMO)** — sandboxed code assessment + RAG hints, catches AI-written submissions | [![lang](https://img.shields.io/github/languages/top/thebigby10/KUMO?style=flat-square&color=2c5364)](https://github.com/thebigby10/KUMO) | [![last commit](https://img.shields.io/github/last-commit/thebigby10/KUMO?style=flat-square&color=203a43&label=updated)](https://github.com/thebigby10/KUMO/commits) |
+| **[Nimbus](https://github.com/thebigby10/Nimbus)** — self-hosted file sharing, S3 storage, expiring links, my own VM | [![lang](https://img.shields.io/github/languages/top/thebigby10/Nimbus?style=flat-square&color=2c5364)](https://github.com/thebigby10/Nimbus) | [![last commit](https://img.shields.io/github/last-commit/thebigby10/Nimbus?style=flat-square&color=203a43&label=updated)](https://github.com/thebigby10/Nimbus/commits) |
+| **[Prometheus](https://github.com/thebigby10/prometheus)** — licensing marketplace, business logic in Oracle DB procedures | [![lang](https://img.shields.io/github/languages/top/thebigby10/prometheus?style=flat-square&color=2c5364)](https://github.com/thebigby10/prometheus) | [![last commit](https://img.shields.io/github/last-commit/thebigby10/prometheus?style=flat-square&color=203a43&label=updated)](https://github.com/thebigby10/prometheus/commits) |
+| **[Project Baksho](https://github.com/Muhtasim-Zawad/Project_Baksho)** — polyglot microservices behind a Spring Boot gateway | [![lang](https://img.shields.io/github/languages/top/Muhtasim-Zawad/Project_Baksho?style=flat-square&color=2c5364)](https://github.com/Muhtasim-Zawad/Project_Baksho) | [![last commit](https://img.shields.io/github/last-commit/Muhtasim-Zawad/Project_Baksho?style=flat-square&color=203a43&label=updated)](https://github.com/Muhtasim-Zawad/Project_Baksho/commits) |
+| **[TasteTrail](https://github.com/thebigby10/TasteTrail)** — regional recipes, nutrition analysis, fuzzy ingredient substitution | [![lang](https://img.shields.io/github/languages/top/thebigby10/TasteTrail?style=flat-square&color=2c5364)](https://github.com/thebigby10/TasteTrail) | [![last commit](https://img.shields.io/github/last-commit/thebigby10/TasteTrail?style=flat-square&color=203a43&label=updated)](https://github.com/thebigby10/TasteTrail/commits) |
+| **[PicoDB](https://github.com/thebigby10/PicoDB)** — a SQL database from scratch in C++, joins and all | [![lang](https://img.shields.io/github/languages/top/thebigby10/PicoDB?style=flat-square&color=2c5364)](https://github.com/thebigby10/PicoDB) | [![last commit](https://img.shields.io/github/last-commit/thebigby10/PicoDB?style=flat-square&color=203a43&label=updated)](https://github.com/thebigby10/PicoDB/commits) |
 
 </div>
-
-**The short version of what's in those cards:** [KUMO](https://github.com/thebigby10/KUMO) runs untrusted student code in sandboxed containers and uses RAG for hints while catching AI-written submissions · [Nimbus](https://github.com/thebigby10/Nimbus) is my self-hosted file sharing with S3 storage and expiring links, on a VM I run myself · [Prometheus](https://github.com/thebigby10/prometheus) is a licensing marketplace whose business logic lives in Oracle DB procedures · [Baksho](https://github.com/Muhtasim-Zawad/Project_Baksho) is polyglot microservices behind a Spring Boot gateway · [TasteTrail](https://github.com/thebigby10/TasteTrail) does nutrition analysis and fuzzy-matched ingredient substitution for regional recipes · [PicoDB](https://github.com/thebigby10/PicoDB) is a SQL database written from scratch in C++, joins and all.
 
 <details>
 <summary><b>🧪 The fun shelf — smaller things I actually use</b></summary>
@@ -118,8 +116,7 @@ My favorite merged PR: adding **Ollama** as a first-class provider to **[Horizon
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=thebigby10&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebigby10&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="165"/> -->
+<img src="https://raw.githubusercontent.com/thebigby10/thebigby10/main/github-metrics.svg" alt="GitHub metrics — stats, languages, activity" width="100%"/>
 
 <img src="https://streak-stats.demolab.com?user=thebigby10&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
@@ -139,4 +136,4 @@ My favorite merged PR: adding **Ollama** as a first-class provider to **[Horizon
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2022&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer"/>
