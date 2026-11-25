@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Abidur%20Rahman&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=32&desc=Asif%20%C2%B7%20Software%20Engineer&descSize=18&descAlignY=52" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Abidur%20Rahman&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=32&desc=Asif%20%C2%B7%20DevOps%20Engineer&descSize=18&descAlignY=52" alt="header"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Software+Engineer+%40+CPS+Academy;Backend+%C2%B7+DevOps+%C2%B7+AI+Engineering;SWE+%40+IUT+%C2%B7+Class+of+2027;%F0%9F%91%BE+installing+arch" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Associate+DevOps+Engineer+%40+Cloud+Omnium;DevOps+%C2%B7+Backend+%C2%B7+AI+Engineering;SWE+%40+IUT+%C2%B7+Class+of+2027;%F0%9F%91%BE+installing+arch" alt="typing intro"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-I keep a production education platform alive for a few thousand students at [CPS Academy](https://cpsacademy.io), study Software Engineering at IUT, and spend the rest of my time self-hosting things that were fine as cloud services, running LLMs locally so my data stays mine, and occasionally shipping a game. My comfort zone is the terminal; my happy place is a `docker compose up` with 18 services that all go green.
+I'm an Associate DevOps Engineer at Cloud Omnium, and I study Software Engineering at IUT. Before that, I kept a production education platform alive for a few thousand students at [CPS Academy](https://cpsacademy.io). The rest of my time goes into self-hosting things that were fine as cloud services, running LLMs locally so my data stays mine, and occasionally shipping a game. My comfort zone is the terminal; my happy place is a `docker compose up` with 18 services that all go green.
 
 <br/>
 
